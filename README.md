@@ -15,4 +15,4 @@ interpretation (Ensembl VEP), bulk and single-cell RNA sequencing, proteomics
 • Genome-wide Association Studies (GWAS), Transcriptome-wide Association Studies (TWAS),
 GWAS/TWAS Fine Mapping
 • Causal Inference: coloc, Mendelian Randomization (MR)
-• Other tools: Power BI, microsoft office, AWS, GitHub, Nextflow [Cheet sheet]()
+• Other tools: Power BI, microsoft office, AWS, GitHub, Nextflow [Cheet sheet](https://github.com/liqingbioinfo/Skills/blob/main/Documents/nextflow_cheatsheet.pdf)
