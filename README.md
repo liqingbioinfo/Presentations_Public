@@ -20,4 +20,4 @@ GWAS/TWAS Fine Mapping
 ### Single-cell analysis
 - **scTDA**: Topological data analysis of high-throughput single-cell RNA-seq data, applied to studying cell differentiation during development.  
   - 📄 PMID: [28459448](https://pubmed.ncbi.nlm.nih.gov/28459448/)  
-  - 📘 Tutorial: [scTDA Tutorial](Documents/scTDA Tutorial.ipynb)
+  - 📘 Tutorial: [scTDA Tutorial](Documents/scTDA_Tutorial.ipynb)
