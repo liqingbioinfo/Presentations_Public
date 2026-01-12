@@ -2,7 +2,7 @@
 
 ## Presentations
 
-### 1) Published Article Summaries
+### 1) Published Articles Summaries
 Focus on AI models for DNA sequences, single-cell molecular profiles, and drug- and disease-related biomarkers.
 
 #### Category 1: DNA Foundation Models
@@ -14,7 +14,7 @@ Focus on AI models for DNA sequences, single-cell molecular profiles, and drug- 
 #### Category 3: Drug–Disease Associations & Disease Biomarkers
 - 
 
-### 2) Conference / Seminar Summaries
+### 2) Conferences / Seminars Summaries
 Focus on human genetics and cancer.
 
 #### ASHG 
@@ -23,11 +23,11 @@ Focus on human genetics and cancer.
 #### AACR 
 - 
 
-### 3) Talks / Workshops Summaries
+### 3) Workshops / Talks Summaries
 Focus on cancer genetics and single-cell research.
 
 #### 
 - 
 
-### 4) Advanced Technology Summary
+### 4) Advanced Technology / News Summary
 Focus on gene and cell therapy.
