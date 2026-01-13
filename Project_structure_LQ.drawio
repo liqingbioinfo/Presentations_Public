@@ -418,6 +418,9 @@
         <mxCell id="sZJneVshtkJgmc3B0gOA-35" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.folder;" value="" vertex="1">
           <mxGeometry height="20" width="21.98" x="170" y="465.59000000000003" as="geometry" />
         </mxCell>
+        <mxCell id="sZJneVshtkJgmc3B0gOA-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;src&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="101" y="189.75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
