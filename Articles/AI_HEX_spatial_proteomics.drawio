@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1">
   <diagram name="Page-1" id="fZyempU6Eaf7jllw5vWy">
-    <mxGraphModel dx="4351" dy="1417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4020" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,7 +179,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAFfz6rtNe68pfh0xoYF-6" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;h1 class=&quot;c-article-title&quot; data-test=&quot;article-title&quot; data-article-title=&quot;&quot; style=&quot;font-size: 1.875rem; margin: 0px 0px 16px; font-weight: 700; -webkit-font-smoothing: antialiased; font-family: Harding, Palatino, serif; letter-spacing: min(max(-0.0117156rem, 4vw), -0.0390625rem); line-height: 1.2; box-sizing: inherit; color: rgb(34, 34, 34); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;AI-enabled virtual spatial proteomics from histopathology for interpretable biomarker discovery in lung cancer&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="60" width="1405" x="1530" as="geometry" />
+          <mxGeometry height="60" width="1405" x="-180" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="3rspy1clMyh05gIytIp6-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="20" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="3rspy1clMyh05gIytIp6-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" value="1" vertex="1">
+          <mxGeometry height="30" width="30" x="10" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="3rspy1clMyh05gIytIp6-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" value="2" vertex="1">
+          <mxGeometry height="30" width="30" x="-830" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rspy1clMyh05gIytIp6-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" value="3" vertex="1">
+          <mxGeometry height="30" width="30" x="-1690" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3rspy1clMyh05gIytIp6-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" value="4" vertex="1">
+          <mxGeometry height="30" width="30" x="850" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="3rspy1clMyh05gIytIp6-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" value="5" vertex="1">
+          <mxGeometry height="30" width="30" x="1720" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="3rspy1clMyh05gIytIp6-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" value="6" vertex="1">
+          <mxGeometry height="30" width="30" x="2570" as="geometry" />
+        </mxCell>
+        <mxCell id="3rspy1clMyh05gIytIp6-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" value="7" vertex="1">
+          <mxGeometry height="30" width="30" x="3415" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
