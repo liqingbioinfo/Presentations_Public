@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
   <diagram name="Page-1" id="3LRXLGhcx1EXiKR1UMEr">
-    <mxGraphModel dx="1698" dy="834" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2123" dy="1043" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,6 +116,9 @@
         </mxCell>
         <mxCell id="FLlcXo33fteFZTflUlvy-9" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;h1 class=&quot;c-article-satellite-title u-h1&quot; data-test=&quot;top-caption&quot; id=&quot;Fig7&quot; style=&quot;font-size: min(max(1.5rem, 4vw), 2rem); margin: 0.67em 0px 16px; font-weight: 700; -webkit-font-smoothing: antialiased; font-family: Harding, Palatino, serif; letter-spacing: min(max(-0.0117156rem, 4vw), -0.0390625rem); line-height: 1.4; box-sizing: inherit; word-break: break-word; color: rgb(34, 34, 34); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Fig. 3&lt;/h1&gt;" vertex="1">
           <mxGeometry height="104" width="95" x="2701" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="FLlcXo33fteFZTflUlvy-10" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;h3 class=&quot;c-article__sub-heading&quot; id=&quot;Sec5&quot; style=&quot;-webkit-font-smoothing: antialiased; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; letter-spacing: -0.0117156rem; font-size: 1.5rem; line-height: 1.24; box-sizing: inherit; font-style: normal; color: rgb(34, 34, 34); margin: 24px 0px 8px; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;3. Immuno-editing through SCAAs and transcriptional regulation&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="74" width="753" x="2061.29" y="1897" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
